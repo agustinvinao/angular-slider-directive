@@ -20,8 +20,8 @@
 		"tests"
 	],
   "main": [
-    "slider-directive.js",
-    "slider-directive.css"
+    "slider-directive.min.js",
+    "slider-directive.min.css"
   ],
 	"dependencies": {
 		"angular":"~1.2.0",
