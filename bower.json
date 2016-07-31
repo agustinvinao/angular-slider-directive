@@ -2,8 +2,8 @@
 	"name": "angular-slider-directive",
 	"version": "2.0.1",
 	"main": [
-		"slider-directive.min.js",
-		"slider-directive.min.css"
+		"./slider-directive.min.js",
+		"./slider-directive.min.css"
 	],
 	"authors": [
 		"Eric Madera <madera.eric@gmail.com>"
