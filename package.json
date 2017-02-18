@@ -1,0 +1,25 @@
+{
+  "name": "angular-slider-directive",
+  "version": "1.0.0",
+  "description": "- Features: \t- Allows arbitrarily many handles \t- Fully customizable styles. You may overwrite the default element classes and replace them with whatever you like. \t- Supports both increment and continuous sliders \t- Users may define their own values. You are not restricted to numbers only. \t- Users may define their own scaling functions. You are not restricted to linear sliders. \t- Users may rotate their sliders, allowing for vertical or slanted sliders.",
+  "main": "slider-directive.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agustinvinao/angular-slider-directive.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/agustinvinao/angular-slider-directive/issues"
+  },
+  "homepage": "https://github.com/agustinvinao/angular-slider-directive#readme",
+  "dependencies": {
+    "angular":"^1.2.0",
+    "angular-animate":"^1.2.0",
+    "angular-sanitize":"^1.2.0",
+    "angular-touch":"^1.2.0"
+  }
+}
